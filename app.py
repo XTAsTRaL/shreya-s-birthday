@@ -157,7 +157,7 @@ HTML = '''
         <div class="text-8xl mb-8">🎂</div>
         <h1 class="text-7xl font-bold mb-6">🎉 Happy Birthday Shreya 🎉</h1>
         <p class="text-2xl max-w-4xl">
-            Today is all about you! Hope your day is filled with happiness and unforgettable memories.
+            Today was the day on which you were born, everybody in your family doesn't supports you but don't you worry as I am always with you to help you in every possible way as i can. You are the best thing that have haappend to me as you have heard my stupd jokes and also you have held me in my bad time so a big thanks to you.
         </p>
     </div>
 
@@ -165,7 +165,7 @@ HTML = '''
         <div class="text-8xl mb-8">💖</div>
         <h1 class="text-7xl font-bold mb-6">✨ Special Message ✨</h1>
         <p class="text-2xl max-w-4xl">
-            You are one of the most amazing people ever. Keep smiling and shining always.
+            You are one of the most gorgeous person i have met. And i don't want you to make yourself feel like you don't have aa place to be feel free always remember that I am with you and you can share everything with me. Not everone is going to support you but celebrate your bday by yourself.
         </p>
     </div>
 
@@ -173,7 +173,7 @@ HTML = '''
         <div class="text-8xl mb-8">🏆</div>
         <h1 class="text-7xl font-bold mb-6">🎮 Birthday Quest Complete 🎮</h1>
         <p class="text-2xl max-w-4xl">
-            Congratulations! You unlocked the secret birthday world.
+            Congratulations! You unlocked the secret birthday world. You have to make you day as good as possible and have to tell me what have you done on the beautiful day.
         </p>
     </div>
 
@@ -181,7 +181,7 @@ HTML = '''
         <div class="text-8xl mb-8">🎁</div>
         <h1 class="text-7xl font-bold mb-6">🌸 Final Surprise 🌸</h1>
         <p class="text-2xl max-w-4xl">
-            May every dream you have turn into reality. Have the best birthday ever!
+            God May turn every dream your into reality. Have the best birthday ever!
         </p>
     </div>
 
